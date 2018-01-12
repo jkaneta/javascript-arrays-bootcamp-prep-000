@@ -37,3 +37,7 @@ function destructivelyRemoveElementToEndOfArray(array) {
   return array;
 }
 
+function removeElementToEndOfArray(array) {
+  
+}
+
